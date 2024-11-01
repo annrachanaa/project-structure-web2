@@ -1,0 +1,48 @@
+
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web");
+* {
+  font-family: "Titillium Web", sans-serif;
+}
+body {
+  height: 2000px;
+  background-color: gray;
+}
+header{
+    align-items: center;
+}
+nav{
+    background: #fff;
+}
+.nav-link{
+    color: #000; 
+    font-size: 18px;
+    font-weight: 800;
+}
+.logo:hover,
+.nav-link:hover{
+    color: #daa520; 
+
+}
+.logo{
+    color: #000; 
+    font-weight: 800;
+}
+
+.contactbox{
+    background: black;
+    border-radius: 10px;
+    padding: 0 15px ;
+
+   
+}
+.contactbox:hover{
+    background: #daa520;
+
+
+   
+}
+.contactbox a{
+    color: #fff;
+}
+
+
